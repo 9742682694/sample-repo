@@ -1,1 +1,3 @@
+this is my new file usig git commnds
+
 this is my text file in git command using linux
